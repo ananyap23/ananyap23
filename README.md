@@ -11,7 +11,9 @@
 
 ---
 
-### 👨‍💻 Glad to see you here!
+<img align="right" src="./assets/girl-developer.gif" width="370" alt="Ananya - Girl Developer Sitting with Laptop" />
+
+### 👩‍💻 Glad to see you here!
 
 I'm a **B.Tech Information Technology student** with a strong foundation in software engineering, backend systems, and **Generative AI**. Passionate about building intelligent agents, autonomous systems, and scalable full-stack applications.
 
@@ -21,6 +23,8 @@ I'm a **B.Tech Information Technology student** with a strong foundation in soft
 - 💡 **Problem Solving:** Solved **300+ DSA problems** on LeetCode
 - 💬 **Ask me about:** Java, Spring Boot, Python, Generative AI, RAG, and REST APIs
 - 📫 **How to reach me:** [pananya864@gmail.com](mailto:pananya864@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/ananya-pandey-86b3a629b)
+
+<br clear="both" />
 
 ---
 
