@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-pandey-86b3a629b)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ananyap23)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pananya864@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20200+-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20300+-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ananyap23&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views for ananyap23" />
@@ -18,7 +18,7 @@ I'm a **B.Tech Information Technology student** with a strong foundation in soft
 - 🎓 **Education:** B.Tech in IT at Pranveer Singh Institute of Technology (PSIT), Kanpur
 - 📍 **Location:** Kanpur, Uttar Pradesh, India
 - 🧠 **Focus Areas:** Generative AI & Autonomous Agents (LangChain, LangGraph, RAG), Backend Engineering (Spring Boot, FastAPI)
-- 💡 **Problem Solving:** Solved **200+ DSA problems** on LeetCode
+- 💡 **Problem Solving:** Solved **300+ DSA problems** on LeetCode
 - 💬 **Ask me about:** Java, Spring Boot, Python, Generative AI, RAG, and REST APIs
 - 📫 **How to reach me:** [pananya864@gmail.com](mailto:pananya864@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/ananya-pandey-86b3a629b)
 
@@ -35,7 +35,7 @@ I'm a **B.Tech Information Technology student** with a strong foundation in soft
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Data Structures & Algorithms](https://img.shields.io/badge/DSA-200%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
 #### 🤖 Generative AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -96,7 +96,7 @@ I'm a **B.Tech Information Technology student** with a strong foundation in soft
 - 🏆 **Retrieval Augmented Generation (RAG)** — DeepLearning.AI *(Embeddings, Vector DBs, Semantic Search, Chunking)*
 - 📜 **Java Programming** — Udemy *(61.5 Hours comprehensive training)*
 - 📜 **SQL Certified (Intermediate)** — HackerRank
-- 🎯 **LeetCode:** Solved **200+** Data Structures & Algorithms problems
+- 🎯 **LeetCode:** Solved **300+** Data Structures & Algorithms problems
 
 ---
 
